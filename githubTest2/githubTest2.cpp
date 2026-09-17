@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-    cout << "Enbug-far" << endl;
+    cout << "Enbug-far        " << endl;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
