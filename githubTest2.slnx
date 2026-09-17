@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="githubTest2/githubTest2.vcxproj" />
+  <Project Path="githubTest2/githubTest2.vcxproj" Id="23a7b4a9-b7d0-4305-8970-8ae64438b414" />
 </Solution>
